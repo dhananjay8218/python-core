@@ -1,0 +1,6 @@
+ItemA - 4 units
+ItemB - 2 units
+ItemC - 10 units
+Notebook
+Pen
+Marker

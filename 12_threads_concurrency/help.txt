@@ -1,0 +1,22 @@
+
+-------------------------------
+Setup Commands for Thread Download Example
+-------------------------------
+
+1. Create virtual environment
+   python3 -m venv venv
+
+2. Activate virtual environment (macOS/Linux)
+   source venv/bin/activate
+
+3. Upgrade pip
+   pip install --upgrade pip
+
+4. Install required package for downloading URLs
+   pip install requests
+
+5. Run your script
+   python thread_download_example.py
+
+6. Deactivate virtual environment (when done)
+   deactivate
